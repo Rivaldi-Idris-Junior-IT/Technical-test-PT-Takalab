@@ -32,5 +32,8 @@
 ![Arsitektur Deploy -2](https://user-images.githubusercontent.com/34388205/106200412-844f5d00-61e9-11eb-8807-8da5870a8a2e.jpg)
 
 ## 3 English Test
+![Screenshot from 2021-01-29 04-37-54](https://user-images.githubusercontent.com/34388205/106203841-997aba80-61ee-11eb-88d9-d17ffd7ebc9f.png)
+
+## Personality Test 1
 
 
