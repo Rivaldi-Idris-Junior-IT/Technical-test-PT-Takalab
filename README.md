@@ -31,3 +31,6 @@
 ## 2 Imagine there is deployment that you need to handle. There are 5 backend services, and 1 worker service, and 2 front end services, 2 mobile apps applications, connected to 2 databases (PostgreSQL for relationalDB, mongoDB for historical data) and required data caching. Can you create a good infrastructure using diagrams for handling that deployment.
 ![Arsitektur Deploy -2](https://user-images.githubusercontent.com/34388205/106200412-844f5d00-61e9-11eb-8807-8da5870a8a2e.jpg)
 
+## 3 English Test
+
+
