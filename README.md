@@ -38,5 +38,6 @@
 ![Screenshot from 2021-01-29 04-46-36](https://user-images.githubusercontent.com/34388205/106204008-d8a90b80-61ee-11eb-8159-688515ea4d7b.png)
 
 ## Personality Test 2
+![Screenshot from 2021-01-29 04-56-31](https://user-images.githubusercontent.com/34388205/106204117-02fac900-61ef-11eb-9bc9-d896f98d7a4e.png)
 
 
