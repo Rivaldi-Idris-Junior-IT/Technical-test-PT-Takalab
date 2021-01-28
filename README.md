@@ -10,5 +10,25 @@
 - Code the application 
 = Prepare to make the docker images for deploying application an give the proxy with the nginx
 -> in Docker application
-   : docker build -
+   : Build docker image =  docker build -t namedockerhub/app:tag
+   : Push docker image in dockerhub = docker push namedockerhub/app:tag
+   : Pull docker image in dockerhub = docker pull namedockerhubandapp:tag
+   : Build container and running another image = docker compose up -d 
+   : Checking container = docker ps -a 
+   : Stop container running = docker compose down   
+-> in Jenkins
+   : Deploy in jenkins usually using with ui application to deploy app. 
+   : Running the build app with jenkinsfile in our repository
+-> in Anisble
+   : Check connection ansible all -m ping
+   : Running file ansible with configuration to deploy in file yml command = ansible playbook -i hosts namefile.yml    
+-> in Kubernetes 
+   : Running kubernetes file with all configuration in kubernetes = kubectl apply -f namefile.yml
+   : Check log pods = kubectl logs -n namespace value
+   : Check namespace in running = kubectl get all -n backend-frontend
+   : Delete/stop service deploy kubernetes = kubectl delete -n namespace value
+   
+## 2 
+number 2 in pdf to see infrastructure
+
 
